@@ -1,4 +1,9 @@
-<img src="https://github.com/mokkapps/mokkapps/blob/master/header.png" alt="Mahmoud Abd Elhadi GitHub README header image">
+<!-- 🟣 Header Banner -->
+<p align="center">
+  <img src="https://github.com/MahmoudAbdElhadi/your-repo-name/blob/main/mahmoud-header.png" 
+       alt="Mahmoud Abd Elhadi GitHub README header image" 
+       width="100%">
+</p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/SQL-Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height=25></a>
