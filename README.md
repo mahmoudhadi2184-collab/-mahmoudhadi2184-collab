@@ -86,3 +86,4 @@ I am currently open to opportunities as a Data Analyst or SQL Developer. Feel fr
 * 📧 **Email:** [My Email](mailto:mahmoudhadi2184@gmail.com)
 * 🐈 **GitHub:** [My Profile](https://github.com/mahmoudhadi2184-collab)
 * 📞 **Mobile / WhatsApp:** [+20 1097580203](https://wa.me/201097580203)
+* 📊 **Portfolio / Dashboards:** [View on NovyPro](https://www.novypro.com/profile_projects/mahmoudabdalhadi)
